@@ -1,8 +1,16 @@
 # add-home-minimum
 
+## preview
+
+- https://mqtsuo02.github.io/add-home-minimum/
+
+|home icon|app|
+|:-:|:-:|
+| ![](./images/preview/home.png) | ![](./images/preview/app.png) |
+
 ## desctiption
 
-- 最小限の構成で「ホームにアイコン追加」してそれっぽくする
+- 「ホームに追加」するとネイティブアプリのように立ち上がる Web のサンプルコード
 
 ## log
 
